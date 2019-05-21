@@ -12,7 +12,13 @@ public class Test {
         System.out.println("add3");
     }
 
+    
+    
     public static void t1(){
+        System.out.println("方法1");
+    }
+    
+      public static void t2(){
         System.out.println("方法2");
     }
 }
