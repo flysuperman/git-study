@@ -9,7 +9,7 @@ public class Test {
 
     public static void main(String[] args) {
         System.out.println("init");
-        System.out.println("add2");
+        System.out.println("add3");
     }
 
     public static void t1(){
