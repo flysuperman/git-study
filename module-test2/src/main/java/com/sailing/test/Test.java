@@ -13,6 +13,6 @@ public class Test {
     }
 
     public static void t1(){
-        System.out.println("方法1");
+        System.out.println("方法2");
     }
 }
