@@ -8,6 +8,6 @@ package com.sailing.test;
 public class Study {
 
     public static void main(String[] args) {
-        System.out.println("study2");
+        System.out.println("study");
     }
 }
